@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "TextFileHandle&lt;Subscriber&gt;::sort(bool):main.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "file.peek()">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "BinaryFileHandle&lt;Subscriber&gt;::read_entry(std::__1::basic_istream&lt;char, std::__1::char_traits&lt;char&gt; &gt;&amp;, unsigned long&amp;):main.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "file.eof()">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "TextFileHandle&lt;Subscriber&gt;::swap_entries(int, int):main.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "file.peek()">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
